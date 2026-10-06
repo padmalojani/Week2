@@ -1,0 +1,13 @@
+{
+  "duration": "10-15 seconds",
+  "aspect_ratio": "16:9",
+  "camera_motion": "slow cinematic dolly forward from the kolam toward the temple",
+  "motion": "natural human movement, graceful hand motion while drawing kolam, gentle walking, subtle lamp flames, drifting dawn mist, birds stirring",
+  "transition": "pre-dawn blue tones gradually transition to warm golden sunrise",
+  "audio": {
+    "ambient": "soft village dawn ambience, light birdsong, gentle breeze",
+    "temple": "distant temple bells",
+    "music": "authentic traditional nadaswaram and thavil, subtle and devotional"
+  },
+  "prompt": "Create a photorealistic cinematic historical scene of ancient Tamil Nadu during the sacred Maargazhi month at approximately 5:30 AM, before sunrise. Begin with a wide eye-level shot focused on a Tamil woman gracefully drawing an elaborate symmetrical white rice-flour kolam on damp earth, with a glowing brass kuthu vilakku beside her. Slowly dolly forward through the quiet agraharam street as other women and young girls create kolams, while barefoot families carrying brass lamps and fresh jasmine, marigold and lotus flower offerings walk toward an ancient Dravidian temple. Temple musicians play nadaswaram and thavil near the entrance, a priest prepares the early morning puja, and distant temple bells resonate through the mist. The majestic sculpted gopuram gradually becomes more visible in the background as the first warm sunlight appears. Show authentic Tamil handwoven sarees, traditional houses, tiled roofs, carved wooden doors, stone pathways, brass and clay vessels, palm and neem trees, and a distant temple pond. Maintain historically inspired South Indian cultural authenticity, natural human proportions, realistic facial expressions, detailed textiles and temple carvings, moderate depth of field, atmospheric haze, earthy terracotta, muted ochre, deep indigo, warm gold and off-white tones. Serene, sacred, nostalgic and intimate mood. No modern objects or infrastructure."
+}

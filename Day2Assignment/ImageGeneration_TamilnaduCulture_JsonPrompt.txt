@@ -1,0 +1,108 @@
+{
+  "framework": "SCALE",
+  "Subject": {
+    "description": "An evocative depiction of ancient Tamil Nadu during the sacred Maargazhi month at dawn, centered around a traditional Tamil village family beginning their early-morning devotional rituals.",
+    "people": [
+      "Tamil women wearing traditional handwoven sarees, modestly draped in an ancient South Indian style",
+      "Young girls drawing intricate white kolam patterns at the entrance of their homes",
+      "Men and children carrying small brass lamps and flower offerings toward the temple",
+      "Temple musicians and devotees gathered in the background"
+    ],
+    "cultural_elements": [
+      "intricate kolam designs made with rice flour",
+      "brass kuthu vilakku oil lamps",
+      "fresh jasmine, marigold and lotus flowers",
+      "traditional clay pots",
+      "banana leaves",
+      "woven baskets",
+      "wooden and brass household vessels"
+    ]
+  },
+  "Composition": {
+    "framing": "Wide cinematic establishing shot with a natural eye-level perspective",
+    "foreground": "A woman carefully creating a large symmetrical kolam on the damp ground while a brass oil lamp glows beside her",
+    "middle_ground": "Families walking barefoot along a quiet street toward an ancient temple, carrying flowers and lamps",
+    "background": "A majestic ancient Dravidian temple with a detailed gopuram emerging softly through early-morning mist",
+    "visual_flow": "Lead the viewer's eye from the detailed kolam in the foreground toward the devotees and finally to the temple tower in the distance",
+    "depth": "Layered foreground, middle ground and background with atmospheric morning haze",
+    "aspect_ratio": "16:9"
+  },
+  "Action": {
+    "description": "The village is awakening before sunrise for Maargazhi devotional practices.",
+    "details": [
+      "Women drawing elaborate kolams with graceful hand movements",
+      "Devotees walking toward the temple with lamps and flower offerings",
+      "A temple priest preparing the early morning puja",
+      "Musicians playing traditional nadaswaram and thavil near the temple entrance",
+      "Gentle temple bells sounding in the distance",
+      "Birds beginning to stir as the first light appears"
+    ]
+  },
+  "Location": {
+    "place": "Ancient Tamil Nadu temple village, inspired by a traditional agraharam street",
+    "architecture": [
+      "old lime-plastered Tamil houses",
+      "wooden doors and carved pillars",
+      "tiled roofs",
+      "traditional raised verandas",
+      "stone pathways",
+      "ancient Dravidian temple with sculpted pillars and gopuram"
+    ],
+    "environment": [
+      "cool misty dawn",
+      "slightly wet earth",
+      "courtyards decorated with kolams",
+      "temple pond visible in the distance",
+      "palm and neem trees",
+      "peaceful rural surroundings"
+    ],
+    "time": "Maargazhi month, just before sunrise, approximately 5:30 AM"
+  },
+  "Aesthetic": {
+    "style": "cinematic historical realism with rich cultural authenticity",
+    "lighting": "soft pre-dawn blue light transitioning into warm golden sunrise, complemented by the glow of brass oil lamps",
+    "color_palette": [
+      "earthy terracotta",
+      "muted ochre",
+      "deep indigo",
+      "warm gold",
+      "off-white",
+      "natural green"
+    ],
+    "mood": "serene, spiritual, nostalgic, sacred, intimate and deeply rooted in Tamil heritage",
+    "textures": [
+      "weathered stone",
+      "aged wood",
+      "handwoven cotton",
+      "natural clay",
+      "brushed brass",
+      "rice-flour kolam"
+    ],
+    "camera": {
+      "lens": "35mm cinematic lens",
+      "depth_of_field": "moderate depth of field with atmospheric separation",
+      "detail_level": "highly detailed facial expressions, textiles, temple carvings and kolam patterns"
+    },
+    "quality": "ultra-detailed, photorealistic, cinematic, historically inspired, natural human proportions, authentic South Indian cultural details"
+  },
+  "negative_prompt": [
+    "modern buildings",
+    "electric streetlights",
+    "cars",
+    "motorcycles",
+    "plastic objects",
+    "modern clothing",
+    "mobile phones",
+    "wires and modern infrastructure",
+    "neon colors",
+    "Western architecture",
+    "fantasy elements",
+    "incorrect Tamil cultural symbols",
+    "anachronistic objects",
+    "distorted hands",
+    "extra fingers",
+    "text",
+    "watermarks",
+    "oversaturated colors"
+  ]
+}
